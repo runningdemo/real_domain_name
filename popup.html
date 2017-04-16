@@ -1,0 +1,41 @@
+<!doctype html>
+<!--
+ This page is shown when the extension button is clicked, because the
+ "browser_action" field in manifest.json contains the "default_popup" key with
+ value "popup.html".
+ -->
+<html>
+<head>
+    <title>Getting Started Extension's Popup</title>
+    <link rel="stylesheet" href="./tachyons.css">
+    <style>
+        body {
+            font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+            font-size: 100%;
+        }
+
+        .container {
+            min-width: 400px;
+        }
+    </style>
+
+    <!--
+      - JavaScript and HTML must be in separate files: see our Content Security
+      - Policy documentation[1] for details and explanation.
+      -
+      - [1]: https://developer.chrome.com/extensions/contentSecurityPolicy
+     -->
+    <script src="popup.js"></script>
+</head>
+<body>
+<div class="container pa3 tl">
+    <p class="black-80 ma1 mb3">Real domain name:</p>
+    <a href="" id="domain" class="db blue b f4 mb4" target="_blank"></a>
+    <a href="https://www.wordfence.com/blog/2017/04/chrome-firefox-unicode-phishing/"
+       class="blue f6" target="_blank">Discussion</a>
+    <a class="blue f6 ml3" href="https://github.com/liaa/real_domain_name" target="_blank">Github
+    </a>
+</div>
+</body>
+</html>
+
