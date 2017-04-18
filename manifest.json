@@ -11,7 +11,21 @@
     "default_icon": "icon-128.png",
     "default_popup": "popup.html"
   },
+  "content_scripts": [
+    {
+      "matches": [ "<all_urls>" ],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "tabs",
+    "notifications"
   ]
 }
