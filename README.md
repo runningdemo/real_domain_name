@@ -6,13 +6,9 @@ Install on [Chrome Web Store](https://chrome.google.com/webstore/detail/real-dom
 
 ![screenshot](https://raw.githubusercontent.com/liaa/real_domain_name/master/chromescreenshot.png)
 
-![screenshot](https://raw.githubusercontent
-.com/liaa/real_domain_name/master/chromescreenshot_notification
-.png)
+![screenshot](https://raw.githubusercontent.com/liaa/real_domain_name/master/chromescreenshot_notification.png)
 
-![screenshot](https://raw.githubusercontent
-.com/liaa/real_domain_name/master/chromescreenshot_dangerous
-.png)
+![screenshot](https://raw.githubusercontent.com/liaa/real_domain_name/master/chromescreenshot_dangerous.png)
 
 ## Why it's important?
 
