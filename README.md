@@ -25,6 +25,8 @@ Quoted from [wordfence.com post](https://www.wordfence.com/blog/2017/04/chrome-f
 I recommended you install this plugin because We don't know when the browser will screw things up
 again.
 
+> Updates: Update on April 19th at noon Pacific time: Chrome has just released version 58.0.3029.81. We have confirmed that this resolves the issue and that our ‘epic.com’ test domain no longer shows as ‘epic.com’ and displays the raw punycode instead, which is ‘www.xn--e1awd7f.com’, making it clear that the domain is not ‘epic.com’. We encourage all Chrome users to immediately update to the above version of Chrome to resolve the issue. The original post follows:
+
 ## I don't trust this plugin?
 
 This plugin is open sourced, check it here: https://github.com/liaa/real_domain_name
