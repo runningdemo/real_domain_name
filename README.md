@@ -4,15 +4,15 @@ Show real domain name of the current webpage.
 
 Install on [Chrome Web Store](https://chrome.google.com/webstore/detail/real-domain-name/lhbkkikjboiebjeghokpefafaahnfoff)
 
-![screenshot](https://raw.githubusercontent.com/liaa/real_domain_name/master/chromescreenshot.png)
+![screenshot](https://raw.githubusercontent.com/liaa/real_domain_name/master/image/chromescreenshot.png)
 
-![screenshot](https://raw.githubusercontent.com/liaa/real_domain_name/master/chromescreenshot_notification.png)
+![screenshot](https://raw.githubusercontent.com/liaa/real_domain_name/master/image/chromescreenshot_notification.png)
 
-![screenshot](https://raw.githubusercontent.com/liaa/real_domain_name/master/chromescreenshot_dangerous.png)
+![screenshot](https://raw.githubusercontent.com/liaa/real_domain_name/master/image/chromescreenshot_dangerous.png)
 
 ## Why it's important?
 
-![demo](https://raw.githubusercontent.com/liaa/real_domain_name/master/demo.png)
+![demo](https://raw.githubusercontent.com/liaa/real_domain_name/master/image/demo.png)
 
 > As you can see both of these domains appear identical in the browser but they are completely different websites. One of them was registered by us, today. Our epic.com domain is actually the domain https://xn--e1awd7f.com/ but it appears in Chrome and Firefox as epic.com.
 
