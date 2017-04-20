@@ -35,8 +35,6 @@ function setBadge(isUnsafe) {
 
 // Add event listener when new page loaded
 chrome.runtime.onMessage.addListener(function(message, info){
-  var type = message.type;
-  if(type === 'pageLoaded') {
     var hostname = message.hostname;
     var isUnsafe = isPunyCodeString(hostname);
     if(isUnsafe) {
@@ -45,7 +43,6 @@ chrome.runtime.onMessage.addListener(function(message, info){
     } else {
       setBadge(false);
     }
-  }
 })
 
 // Add event listener when activeTab changes
