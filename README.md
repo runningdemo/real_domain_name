@@ -29,7 +29,7 @@ again.
 
 ## I don't trust this plugin?
 
-This plugin is open sourced, check it here: https://github.com/liaa/real_domain_name
+This plugin is open sourced, check it here: https://github.com/runningdemo/real_domain_name
 
 ## More discussion here:
 https://www.wordfence.com/blog/2017/04/chrome-firefox-unicode-phishing/
